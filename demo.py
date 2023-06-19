@@ -1,6 +1,8 @@
-def Print(name):
-    s =f"my name is {name}"
-    
-    print(s)
+def add():
+    a= 3353
+    b = 4325462
+    return a+b
 
-Print("sumit")
+print(add())
+
+
